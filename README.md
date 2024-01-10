@@ -1,4 +1,10 @@
 # 💫 About Me:
+
+I'm a technology enthusiast from India with 8+ years of professional experience in Machine Learning, Data Science, Software Engineering, and Human Interaction.
+
+Skills: Machine Learning /  Data Science/ Python / HTML / CSS / MATLAB / Data Engineering / Software Developmwent / Microservices Architecture / TensorFlow / PyTorch / Distributed Computing
+
+
 🔭 **I’m currently working on:**  <br>Machine Learning and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>Machine Learning, Pyton, Data Engineering, Managing AI Projects, AWS, and any general software development questions.<br><br>
 
 
