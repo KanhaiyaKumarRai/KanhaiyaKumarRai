@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a technology enthusiast from India with 8+ years of professional experience in Machine Learning, Data Science, Software Engineering, and Human Interaction.
+I'm a technology enthusiast from India with 8+ years of professional experience in Machine Learning, Data Science, Software Engineering and Human Interaction.
 
 Skills: Machine Learning /  Data Science/ Python / HTML / CSS / MATLAB / Data Engineering / Software Developmwent / Microservices Architecture / TensorFlow / PyTorch / Distributed Computing
 
